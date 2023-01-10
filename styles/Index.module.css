@@ -1,0 +1,24 @@
+.select {
+    width: 130px;
+    height: 30px;
+}
+
+.btn {
+    width: 130px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.scoreCard {
+    width: 350px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 5px;
+    background-color: #e4f1dc;
+}
+
+.score {
+margin-top: 80px;
+}
