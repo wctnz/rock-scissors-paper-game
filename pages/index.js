@@ -9,8 +9,6 @@ const Index = () => {
     const [counterH, setCounterH] = useState(0)
     const [counterC, setCounterC] = useState(0)
 
-
-
     const words = ["Rock", "Scissors", "Paper"]
 
     let word = words[Math.floor(Math.random() * words.length)];
