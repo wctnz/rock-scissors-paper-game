@@ -9,20 +9,19 @@ const Index = () => {
     const [counterH, setCounterH] = useState(0)
     const [counterC, setCounterC] = useState(0)
 
-    const words = ["Rock", "Scissors", "Paper"]
-
-    let word = words[Math.floor(Math.random() * words.length)];
-
     const handleChoiceHSelect = (event) => {
+        const words = ["Rock", "Scissors", "Paper"]
+        let word = words[Math.floor(Math.random() * words.length)];
+
         setResult("")
         setLoader(false)
         setChoiceH(event.target.value)
         setChoiceC(word)
     }
 
-    let combo = choiceH + choiceC
-
     const handlePlayClick = () => {
+        let combo = choiceH + choiceC
+
         setLoader(true)
         
         if (combo === "PaperPaper" || combo === "ScissorsScissors" || combo === "RockRock") {
