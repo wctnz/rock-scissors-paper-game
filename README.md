@@ -8,11 +8,11 @@
 
 Игра Камень-Ножницы-Бумага
 
-![](public/images/1.png)    
+![](.next/static/images/1.png)    
 
-![](public/images/2.png)  
+![](.next/static/images/2.png)  
 
-![](public/images/3.png)  
+![](.next/static/images/3.png)  
 
 
 
