@@ -1,3 +1,18 @@
-Rock-scissors-paper game made on React as practice in React-course of Moscow Coding School 
+Проект доступен по ссылке - https://final-boss-two.vercel.app/    
 
-Please visit https://final-boss-two.vercel.app/
+## Стек   
+
+- React  
+
+### Функционал приложения
+
+Игра Камень-Ножницы-Бумага
+
+![](public/images/1.png)    
+
+![](public/images/2.png)  
+
+![](public/images/3.png)  
+
+
+
